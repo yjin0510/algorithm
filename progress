@@ -1,1 +1,23 @@
 #practice
+#---------------- List of items to be completed -------------
+Insertion sort
+Merge sort
+Maximu subarray problem (DivConq)
+Master theorem
+Heap
+Heap sort
+Priority queue
+Quick sort
+How to prove that comparison sort complexity is lowerbounded by Omega(nlog(n))?
+Counting sort (precondition?)
+Radix sort
+Bucket sort
+Selection in expected linear time
+Selection in worst-case linear time
+Relational algebra
+Stack array implementation
+Queue array implementation
+
+#--------------- List of items that have been completed with time stamp ------------
+
+
